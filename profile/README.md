@@ -1,5 +1,7 @@
 # Rapid Ramp
 
+[![](https://dcbadge.vercel.app/api/server/pB4f5Mjqdb)](https://discord.gg/pB4f5Mjqdb)
+
 > Disclaimer: We will not and do not promote the NFT or tokens. They solely grant access to our service. The tokens and NFT are not investments and do not promise any profits. We do not endorse third-party marketing of the tokens or pay interest, as they are not debt instruments. The NFT and tokens do not confer ownership or participation in a company or common enterprise.
 
 ## The Problem
