@@ -1,45 +1,36 @@
-# Rapid Ramp
+# Amp: Revolutionizing Affordable Credit with Blockchain
 
-[![](https://dcbadge.vercel.app/api/server/pB4f5Mjqdb)](https://discord.gg/pB4f5Mjqdb)
+[![](https://dcbadge.vercel.app/api/server/uXgXK9gKvx)](https://discord.gg/uXgXK9gKvx)
 
 > Disclaimer: We will not and do not promote the NFT or tokens. They solely grant access to our service. The tokens and NFT are not investments and do not promise any profits. We do not endorse third-party marketing of the tokens or pay interest, as they are not debt instruments. The NFT and tokens do not confer ownership or participation in a company or common enterprise.
 
-## The Problem
-Most blockchain adoption occurs through centralized exchanges, which contradicts the goal of decentralization. Users often leave their tokens on these exchanges, posing risks in case of regulatory actions or exchange failures.
 
-## Metrics
+Welcome to the Amp repository! Here, we're on a mission to transform the way individuals access affordable credit through blockchain technology. Our project aims to empower users by providing a seamless and secure platform for obtaining credit while leveraging the potential of blockchain's transparency and decentralization.
 
-- Between 2022 and 2023, there were 34 crypto enforcement actions filed by SEC and the number will continue to grow if blockchain engagements remain mostly in centralized exchanges.   https://www.sec.gov/spotlight/cybersecurity-enforcement-actions 
-- Due to the centralized nature of most exchanges, when they fail their users do not get their money back. Due to this, over 1,000,000 are owed money by failed exchanges. https://www.bbc.com/news/technology-63624894 https://news.bitcoin.com/since-2014-roughly-42-of-failed-crypto-exchanges-have-disappeared-without-a-trace-for-no-apparent-reason/
-- 9.6% (1,869,406.86 BTC) of the current circulating supply of bitcoin worth $58 billion seats in exchange wallets. https://www.coinglass.com/Balance
+## About Amp
 
-## Solution
+Amp is a decentralized lending platform that allows users to unlock credit for real-life needs. We understand the importance of accessible credit for individuals and businesses alike, and we're here to bridge the gap between traditional lending systems and the world of cryptocurrencies.
 
-To address these issues, we propose the following products:
+## Key Features
 
-1. Onchain P2P on and off Ramps: Our platform enables peer-to-peer transactions and provides on and off-ramps for users to enter or exit the blockchain ecosystem. It supports various payment methods and includes an advertisement mode for buying and selling.
+- **Zero-Interest Credit:** Amp introduces a revolutionary concept of zero-interest credit with just 50% collateral, enabling users to access funds for up to 11 months.
+- **Secure Collateralization:** Our platform ensures that your digital assets remain safe and secure while unlocking liquidity.
+- **Blockchain-Powered:** Amp operates on blockchain technology, providing transparency, security, and automation to lending processes.
+- **Real-Life Use Cases:** Whether it's personal needs or business expenses, Amp offers a credit line for real-life use.
+- **Future Expansion:** We're not stopping at credit. Amp envisions a future with a variety of blockchain-powered financial products.
 
-2. Community Credit: Users can access cheap credit on our platform to fulfil trade orders. The credit amount is determined by the number of community NFTs and tokens held as collateral, with another community member as a guarantor.
+## Community and Feedback
 
-3. API interface: We offer an accessible API interface for other blockchain projects.
+Amp's success is driven by a thriving community. Join us on Discord for discussions, updates, and more. We value your feedback and suggestions to make Amp even better.
 
-5. NFT access: Our NFT grants users access to our credit and ramp services.
+- [Discord](https://discord.gg/uXgXK9gKvx)
 
-6. DAO: Our NFT grants holders the ability to vote. Votes will be weighted based on the activated NFT tiers they hold. To vote, the user has to have stacked an activated NFT for four epochs.
+## Roadmap
 
-## Use cases:
+Stay tuned for updates on Amp's roadmap as we continue to build and enhance the platform.
 
-### Safe trading on the blockchain
-Only users with our NFT can trade. Bad actors will lose their NFT and trading privileges, and we will blacklist their addresses.
+## Disclaimer
 
-### Buy and sell tokens using fiat
-The platform allows users to advertise, buy and sell tokens, facilitating instant transactions. Tokens are locked in a contract until both parties confirm the completion of the transaction. The platform limits how much a user can trade as a security measure.
+Amp is an ongoing project under active development. Please note that the information provided here is subject to change as the project evolves.
 
-### Access credit for trading
-Users can access credit on the platform, secured by their NFTs and tokens.
-
-### Access all platform services, including API
-The platform will grant access to all services through the community NFT, which users can mint at a set price.
-
-### Vote on DAO decisions.
-NFT holders will be able to vote on the platform. Votes will be weighted based on the number of NFTs a user holds. To vote, the user has to have stacked activated NFTs for four epochs.
+Thank you for your interest in Amp! Together, we're revolutionizing access to affordable credit through blockchain technology.
